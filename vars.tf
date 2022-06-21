@@ -12,3 +12,5 @@ variable "VPC_CIDR" {}
 variable "SUBNET_IDS" {}
 variable "WORKSTATION_IP" {}
 variable "DB_NAME" {}
+
+
